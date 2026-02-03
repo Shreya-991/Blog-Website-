@@ -338,5 +338,4 @@ If you encounter any issues or have questions:
 
 ⭐ Star this repo if you find it helpful!
 
-</div>#   B l o g - W e b s i t e -  
- 
+</div>
